@@ -1,0 +1,9 @@
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab 10 Gui unit conversion.csprojResolveAssemblyReference.cache
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab_10_Gui_unit_conversion.Form1.resources
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab_10_Gui_unit_conversion.Properties.Resources.resources
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab 10 Gui unit conversion.csproj.GenerateResource.Cache
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab 10 Gui unit conversion.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\bin\Debug\Lab 10 Gui unit conversion.exe
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\bin\Debug\Lab 10 Gui unit conversion.pdb
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab 10 Gui unit conversion.exe
+C:\Users\henry\source\repos\Lab 10 Gui unit conversion\Lab 10 Gui unit conversion\obj\Debug\Lab 10 Gui unit conversion.pdb

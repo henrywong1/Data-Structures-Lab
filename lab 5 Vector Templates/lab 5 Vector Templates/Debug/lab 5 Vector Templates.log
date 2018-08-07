@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\henry\source\repos\lab 5 vector templates\lab 5 vector templates\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\henry\source\repos\lab 5 vector templates\lab 5 vector templates\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  lab 5 Vector Templates.vcxproj -> C:\Users\henry\source\repos\lab 5 Vector Templates\Debug\lab 5 Vector Templates.exe

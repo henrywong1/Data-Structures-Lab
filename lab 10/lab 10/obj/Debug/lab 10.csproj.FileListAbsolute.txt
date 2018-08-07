@@ -1,0 +1,9 @@
+C:\Users\henry\source\repos\lab 10\lab 10\bin\Debug\lab 10.exe
+C:\Users\henry\source\repos\lab 10\lab 10\bin\Debug\lab 10.pdb
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab 10.csprojResolveAssemblyReference.cache
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab_10.Properties.Resources.resources
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab 10.csproj.GenerateResource.Cache
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab 10.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab 10.exe
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab 10.pdb
+C:\Users\henry\source\repos\lab 10\lab 10\obj\Debug\lab_10.GallonLabel.resources
